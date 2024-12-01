@@ -1,8 +1,8 @@
 ---
 layout: home
 comments: false
-seotitle: SparrowX - Free Minimal SEO-friendly Jekyll Theme (Netlify CMS)
-description: Built on top of Sparro by lingxz, SparrowX is a clean and minimal free Jekyll theme by Mighil. This is a ready-made Jekyll theme for Netlify CMS. 
+# seotitle: SparrowX - Free Minimal SEO-friendly Jekyll Theme (Netlify CMS)
+# description: Built on top of Sparro by lingxz, SparrowX is a clean and minimal free Jekyll theme by Mighil. This is a ready-made Jekyll theme for Netlify CMS. 
 ---
 
 Hi, I’m Yuan LI. I am a Master's student at the Graduate School of Media and Governance at Keio University, supervised by Prof. Kazunori Takashio. My research interests are in the field of Human-Computer Interaction (HCI), mainly focusing on Extended Reality (XR), Perception and Cognitive Sciences.
