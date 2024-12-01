@@ -53,11 +53,11 @@ Hi, I’m Yuan LI. I am a Master's student at the Graduate School of Media and G
 - Base theme sparrow by [lingxz](https://github.com/lingxz/sparrow)
 - Icon made by [Freepik](https://www.freepik.com/) from www.flaticon.com  -->
 
-## Tip Me
+<!-- ## Tip Me
 
 Support if you’d like by referring my [resume](https://migftw.com/resume) or donating through [PayPal](https://www.paypal.me/mighil) or [Alipay](https://migftw.com/wp-content/uploads/2019/02/mighil-alipay.jpg).
 
-## Latest from the blog
+## Latest from the blog -->
 
 
 
