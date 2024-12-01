@@ -10,17 +10,17 @@ Hi, I’m Yuan LI. I am a Master's student at the Graduate School of Media and G
 <!-- This is a demo. You can find the source code on [GitHub](https://github.com/migftw/sparrowx) and the documentation is available [on this page.](/documentation) -->
 
 ## Education
-- The University of Tokyo (2023 ~ 2024)
--- Special Auditor Student, Graduate School of Frontier Science
--- Supervisor: Yuki BAN
-
 - Keio University (2023 ~ 2025)
--- Master of Media and Governance, Graduate School of Media and Governance (SFC)
--- Supervisor: Kazunori TAKASHIO
+Master of Media and Governance, Graduate School of Media and Governance (SFC)
+Supervisor: Kazunori TAKASHIO
+
+- The University of Tokyo (2023 ~ 2024)
+Special Auditor Student, Graduate School of Frontier Science
+Supervisor: Yuki BAN
 
 - Jiangsu University of Science and Technology (2018 ~ 2022)
--- Bachelor of Engineering, Computer Science and Technology
--- Supervisor: Jianjun CHEN
+Bachelor of Engineering, Computer Science and Technology
+Supervisor: Jianjun CHEN
 
 ## Experience and Activity
 - Internship, Neusoft – Suzhou, CN (Nov. 2021)
