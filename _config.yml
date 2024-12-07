@@ -1,7 +1,7 @@
 # Site Settings
 encoding                 : "utf-8"
 locale                   : "en"
-title                    : "liyuan's personal page"
+title                    : "Li Yuan's personal page"
 description              : ""
 # favicon                  : "" 网页横栏图标
 avatar                   : "/assets/images/personalimage.jpg"
@@ -28,15 +28,16 @@ og_image                 : "/assets/images/mighil.png" # Open Graph/Twitter defa
 twitter:
   username               : verfasor # optional, for social sharing
 
-# Analytics
-analytics:
-  google:
-    tracking_id          : UA-128372009-1 # add your google tracking id here
+# Analytics 需要则反注释下面
+# analytics:
+#   google:
+#     tracking_id          : UA-128372009-1 # add your google tracking id here
 
 # Reading Files
 include:
   - _pages
   - "_redirects"
+  - "assets"
 # Files excluded from Jekyll builds
 exclude:
 - README.md
