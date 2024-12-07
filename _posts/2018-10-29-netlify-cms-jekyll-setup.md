@@ -1,4 +1,4 @@
-<!-- ---
+---
 type: post
 title: SparrowX Setup for Netlify CMS
 seotitle: How to Add Netlify CMS to A Jekyll Site - SparrowX Documentation
@@ -163,4 +163,4 @@ Here's the basics:
 
 ### How tags work
 
-You should create specific .md files within ```/tag/``` before using the variable. -->
+You should create specific .md files within ```/tag/``` before using the variable.

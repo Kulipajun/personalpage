@@ -9,7 +9,7 @@ Hi, I’m Yuan LI. I am a Master's student at the Graduate School of Media and G
 
 <!-- This is a demo. You can find the source code on [GitHub](https://github.com/migftw/sparrowx) and the documentation is available [on this page.](/documentation) -->
 
-## Latest from the blog
+
 
 ## Education
 - Keio University (2023 ~ 2025)
@@ -50,17 +50,9 @@ Supervisor: Jianjun CHEN
 ## Academic Activities
 - SIGGRAPH Asia 2024 Student Volunteer
 
-## Credits
-
-- Base theme sparrow by [lingxz](https://github.com/lingxz/sparrow)
-- Icon made by [Freepik](https://www.freepik.com/) from www.flaticon.com 
-
-## Tip Me
-
-Support if you’d like by referring my [resume](https://migftw.com/resume) or donating through [PayPal](https://www.paypal.me/mighil) or [Alipay](https://migftw.com/wp-content/uploads/2019/02/mighil-alipay.jpg).
 
 
-
+## Latest from the blog
 
 
 

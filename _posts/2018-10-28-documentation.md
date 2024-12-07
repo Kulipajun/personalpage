@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: How To Use This Theme
 type: post
 seotitle: SparrowX: Best Minimal Jeykll Theme Documentation and Download
@@ -126,4 +126,4 @@ Your default image Netlify CMS uploads will go to /images/.
 
 For the various config options see the [sample config file for the demo site](https://github.com/migftw/sparrowx/blob/master/_config.yml)
 
-The color schemes and fonts can also be customized through scss, by editing the relevant variable in `_variables.scss`.  -->
+The color schemes and fonts can also be customized through scss, by editing the relevant variable in `_variables.scss`. 
