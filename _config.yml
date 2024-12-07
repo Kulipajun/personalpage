@@ -4,7 +4,7 @@ locale                   : "en"
 title                    : "Li Yuan's personal page"
 description              : ""
 # favicon                  : "" 网页横栏图标
-avatar                   : "/assets/images/personalimage.jpg"
+avatar                   : "/assets/images/sparrowx.png"
 url                      : "https://kulipajun.github.io/personalpage/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
